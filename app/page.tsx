@@ -83,6 +83,14 @@ export default function Portfolio() {
       description:
         "Developed a warehouse automation system with automated control and real-time monitoring capabilities.",
     },
+    {
+      title: "Operating System using Linux",
+      description: "Developed a minimal Linux OS with BusyBox and a command-line interface."
+    },
+    {
+      title: "Logic Based Light Following Car",
+      description: "Designed a robot that follows a path of light using digital logic and logic gates."
+    }
   ]
 
   const educationHistory = [
